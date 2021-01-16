@@ -1,0 +1,29 @@
+.checkout {
+    display: flex;
+    background-color: rgb(237, 236, 234);
+    height: max-content;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.checkout_title {
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
+.checkout_button {
+    background: rgb(13, 60, 92);
+    color: #fff;
+    border-radius: 6px;
+    width: 100%;
+    height: 40px;
+    border: 1px solid;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.checkout_svg {
+    color: rgb(211, 211, 211);
+}

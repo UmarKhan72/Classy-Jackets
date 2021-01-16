@@ -1,0 +1,13 @@
+.footer {
+    background-color: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    border-top: 2px solid rgb(226, 226, 226);
+}
+
+.footer>center>h3>span {
+    text-decoration: underline;
+    font-size: 21px;
+    color: rgb(23, 62, 88);
+}

@@ -1,0 +1,43 @@
+.header {
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0px 10px 20px #b4b4b4;
+}
+
+.header_logo {
+    width: 200px;
+    object-fit: contain;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 18px;
+}
+
+.header_optionBasket {
+    display: flex;
+    align-items: center;
+}
+
+.header_basketCount {
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.header_nav {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 40px;
+    right: 10px;
+}
+
+.header_optionLineTwo {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.header_link {
+    color: #111;
+    text-decoration: none;
+}

@@ -1,0 +1,17 @@
+.home_row {
+    display: flex;
+    z-index: 1;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.home_image {
+    width: 100%;
+}
+
+.home_h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    color: rgb(85, 85, 85);
+}
